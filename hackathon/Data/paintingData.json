@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1000,
+		"name": "Shi",
+        "imageName": "Shi",
+        "description": "Chaque acte de création est d'abord un acte de destruction...",
+        "artist": "Timo Blattner",
+        "artistID": 2000,
+        "galleryID": 3002,
+        "category": "Expressionism",
+        "width": 20,
+        "height": 20
+	},
+    {
+        "id": 1001,
+        "name": "Et son maître",
+        "imageName": "EtSonMaitre",
+        "description": "Il y a l'élève, et le maître...",
+        "artist": "Alan Wicht",
+        "artistID": 2001,
+        "galleryID": 3001,
+        "category": "Expressionism",
+        "width": 15,
+        "height": 20
+    },
+    {
+        "id": 1002,
+        "name": "Jeunesse Dorée",
+        "imageName": "JeunesseDorée",
+        "description": "L'argent n'apporte pas le bonheur, lol",
+        "artist": "Nathan Saam",
+        "artistID": 2002,
+        "galleryID": 3002,
+        "category": "Abstract",
+        "width": 15,
+        "height": 20
+    },
+    {
+        "id": 1003,
+        "name": "Marianne",
+        "imageName": "Marianne",
+        "description": "Que trouve-t-on dans la fosse des Mariannes?",
+        "artist": "Maxime Hon",
+        "artistID": 2003,
+        "galleryID": 3002,
+        "category": "Abstract",
+        "width": 30,
+        "height": 20
+    },
+    {
+        "id": 1005,
+        "name": "Le Tyran",
+        "imageName": "LeTyran",
+        "description": "Rien à déclarer",
+        "artist": "Maxime Hon",
+        "artistID": 2003,
+        "galleryID": 3002,
+        "category": "Expressionism",
+        "width": 20,
+        "height": 20
+    },
+    {
+        "id": 1006,
+        "name": "Karl le Crocodile",
+        "imageName": "KarlLeCrocodile",
+        "description": "C'est du vrai crocodile...",
+        "artist": "Nathan Saam",
+        "artistID": 2002,
+        "galleryID": 3000,
+        "category": "Abstract",
+        "width": 15,
+        "height": 20
+    },
+    {
+        "id": 1007,
+        "name": "Gorgulu",
+        "imageName": "Gorgulu",
+        "description": "Presque autant terrifiant que le tyran",
+        "artist": "Maxime Hon",
+        "artistID": 2003,
+        "galleryID": 3001,
+        "category": "Expressionism",
+        "width": 20,
+        "height": 20
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 3000,
+        "name": "Galerie Kirchgasse",
+        "location": "Steckborn",
+        "country": "Switzerland",
+        "latitude": 47.667390,
+        "longitude": 8.982893,
+        "imageName": "kirchgasse"
+    },
+    {
+        "id": 3001,
+        "name": "Laleh June Galerie",
+        "location": "Basel",
+        "country": "Switzerland",
+        "latitude": 47.553287,
+        "longitude": 7.595398,
+        "imageName": "juneGalerie"
+    },
+    {
+        "id": 3002,
+        "name": "Galerie 134",
+        "location": "Neuchâtel",
+        "country": "Switzerland",
+        "latitude": 46.995329,
+        "longitude": 6.937032,
+        "imageName": "Galerie134"
+    },
+    {
+        "id": 3003,
+        "name": "Galerie am Lindenhof",
+        "location": "Zürich",
+        "country": "Switzerland",
+        "latitude": 47.372633,
+        "longitude": 8.540504,
+        "imageName": "lindenhof"
+    },
+    {
+        "id": 3005,
+        "name": "Galerie C",
+        "location": "Neuchâtel",
+        "country": "Switzerland",
+        "latitude": 46.991224,
+        "longitude": 6.935062,
+        "imageName": "galerieC"
+    },
+    {
+        "id": 3006,
+        "name": "Espace Schilling",
+        "location": "Neuchâtel",
+        "country": "Switzerland",
+        "latitude": 46.992425,
+        "longitude": 6.932232,
+        "imageName": "EspaceSchilling"
+    }
+]

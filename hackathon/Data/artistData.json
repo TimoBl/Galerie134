@@ -1,0 +1,26 @@
+[
+	{
+        "name": "Timo",
+        "surname": "Blattner",
+        "artistName": "Timo Blattner",
+        "id": 2000,
+        "birthday": "17.01.2000",
+        "imageName": "TimoBlattner"
+	},
+    {
+        "name": "Nathan",
+        "surname": "Saam",
+        "artistName": "Nathan Saam",
+        "id": 2002,
+        "birthday": "17.10.2001",
+        "imageName": "NathanSaam"
+    },
+    {
+        "name": "Maxime",
+        "surname": "Hon",
+        "artistName": "Maxime Hon",
+        "id": 2003,
+        "birthday": "19.12.2000",
+        "imageName": "MaximeHon"
+    }
+]
